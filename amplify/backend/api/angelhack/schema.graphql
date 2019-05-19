@@ -1,0 +1,6 @@
+type Measurepoint @model {
+  timestamp: String!
+  x: Float!
+  y: Float!
+  z: Float!
+}

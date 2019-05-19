@@ -1,0 +1,7 @@
+{
+    "devzero": {
+        "configLevel": "project",
+        "useProfile": true,
+        "profileName": "amplify_dev0"
+    }
+}
